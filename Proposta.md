@@ -30,6 +30,6 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
-  Os protótipos de algumas páginas foram elaborados, são estes os da Página Inicial, Página de Login, Contato e Formulário de Cadastro, e podem ser encontrados em:https://github.com/UFOP-CSI477/2017-02-trabalho-final-elaboracao-de-seguros-residencial-e-veicular-marina-e-vitor/tree/master/Protótipos.
+  Os protótipos de algumas páginas foram elaborados, são estes os da Página Inicial, Página de Login, Contato e Formulário de Cadastro, e podem ser encontrados em: https://github.com/UFOP-CSI477/2017-02-trabalho-final-elaboracao-de-seguros-residencial-e-veicular-marina-e-vitor/tree/master/Protótipos.
 
 
