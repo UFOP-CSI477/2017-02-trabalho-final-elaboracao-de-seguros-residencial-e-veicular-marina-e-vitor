@@ -33,6 +33,9 @@ O objetivo é apresentar uma proposta para o trabalho a ser desenvolvido na disc
   Os protótipos de algumas páginas foram elaborados, são estes os da Página Inicial, Página de Login, Contato e Formulário de Cadastro, e podem ser encontrados neste [link](https://github.com/UFOP-CSI477/2017-02-trabalho-final-elaboracao-de-seguros-residencial-e-veicular-marina-e-vitor/tree/master/Protótipos).
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5d782cc0255ff0b449d9f354056e9232f495585f
 =======
 >>>>>>> 5d782cc0255ff0b449d9f354056e9232f495585f
   
