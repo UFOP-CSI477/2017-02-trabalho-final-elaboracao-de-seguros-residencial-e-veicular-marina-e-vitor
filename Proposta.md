@@ -33,7 +33,7 @@ O objetivo é apresentar uma proposta para o trabalho a ser desenvolvido na disc
   Os protótipos de algumas páginas foram elaborados, são estes os da Página Inicial, Página de Login, Contato e Formulário de Cadastro, e podem ser encontrados neste [link](https://github.com/UFOP-CSI477/2017-02-trabalho-final-elaboracao-de-seguros-residencial-e-veicular-marina-e-vitor/tree/master/Protótipos).
   
 ### 5. Instruções de uso
-  Por-favor siga estes passos para testar o trabalho.
+  Por-favor siga estes passos para testar o trabalho:
 	1º Criar um script de BD chamado seguradora; 
 	2º Fazer o import do seguradora.sql disponível na pasta "Outros/SQL"; 
 	3º Ativar o servidor (foi utilizado o XAMPP); 
