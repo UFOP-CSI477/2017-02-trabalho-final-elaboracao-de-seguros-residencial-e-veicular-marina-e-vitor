@@ -8,18 +8,18 @@
 <!-- Descrever um resumo sobre o trabalho. -->
 
 ### Resumo
-O objetivo deste documento é apresentar uma proposta para o trabalho a ser desenvolvido na disciplina CSI477 -- Sistemas WEB I. O trabalho descrito neste documento tem como objetivo fazer com que sejam aplicados conceitos e práticas aprendidas no decorrer da disciplina.
+O objetivo é apresentar uma proposta para o trabalho a ser desenvolvido na disciplina CSI477 - Sistemas WEB I. É descrito neste documento as aplicações dos conceitos e práticas aprendidas no decorrer da disciplina.
 
 <!-- Apresentar o tema. -->
 ### 1. Tema
 
-  O trabalho final tem como tema o desenvolvimento de uma aplicação WEB que objetiva a elaboração de seguros residenciais e veiculares. Nesta aplicação, o usuário insere dados em um formulário com informações sobre si mesmo, sobre seu veículo, ou residência, onde o seguro será emitido de acordo com esses dados.
+  O trabalho final tem como tema o desenvolvimento de uma aplicação WEB que objetiva a elaboração de seguros residenciais e veiculares. Nesta aplicação, o usuário insere dados em um formulário com informações sobre si mesmo, sobre seu veículo, ou residência, onde o seguro será emitido de acordo com os registros.
 
 
 <!-- Descrever e limitar o escopo da aplicação. -->
 ### 2. Escopo
 
-  Este projeto terá as seguintes funcionalidades: Inserir, atualizar e excluir dados dos clientes, veículos e residências. Geração de relatórios individuais para o cliente com a cotação, e relatórios sobre itens registrados na base dados para os proprietários do software.
+  Este projeto terá as seguintes funcionalidades: o cliente pode inserir formulários no banco de dados, tais como: simulação residencial, automotivo e contato, para o administrador, através de acesso do login, poderá pesquisar os registros recebidos e avaliar os riscos e a lucratividade informada pelo tratamento do servidor php.
 
 
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
@@ -31,5 +31,3 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
   Os protótipos de algumas páginas foram elaborados, são estes os da Página Inicial, Página de Login, Contato e Formulário de Cadastro, e podem ser encontrados neste [link](https://github.com/UFOP-CSI477/2017-02-trabalho-final-elaboracao-de-seguros-residencial-e-veicular-marina-e-vitor/tree/master/Protótipos).
-
-
