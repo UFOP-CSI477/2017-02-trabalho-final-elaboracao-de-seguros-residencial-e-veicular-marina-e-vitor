@@ -34,8 +34,8 @@ O objetivo é apresentar uma proposta para o trabalho a ser desenvolvido na disc
   
 ### 5. Instruções de uso
   Por-favor siga estes passos para testar o trabalho.
-	1º Criar um script de BD chamado seguradora
-	2º Fazer o import do seguradora.sql disponível na pasta "Outros/SQL"
-	3º Ativar o servidor (foi utilizado o XAMPP)
-	4º Para testar o login, utilize este usuário:"admin" e senha:"admin"
-	5º Pronto para ser usado.
+	1º Criar um script de BD chamado seguradora; 
+	2º Fazer o import do seguradora.sql disponível na pasta "Outros/SQL"; 
+	3º Ativar o servidor (foi utilizado o XAMPP); 
+	4º Para testar o login, utilize este usuário:"admin" e senha:"admin"; 
+	5º Pronto para ser testado.
