@@ -1,0 +1,22 @@
+Aluna: Marina de Oliveira Margarida
+Matrícula: 13.1.8443
+
+Aluno: Vitor de Siqueira Cotta
+Matrícula: 14.1.8143
+
+Disciplina: CSI477 - SISTEMAS WEB I - Turma 11
+Professor: FERNANDO BERNARDES DE OLIVEIRA
+Atividade: Trabalho
+Data: 15/02/2018
+
+
+
+Saudações,
+
+	Por-favor siga estes passos para testar o trabalho.
+
+	1º Criar um database chamado seguradora
+	2º Fazer o import do seguradora.sql disponível na pasta "Outros/SQL"
+	3º Ativar o servidor (no caso foi utilizado o XAMPP)
+	4º Para testar o login, utilize este usuário:"admin" e senha:"admin"
+	5º Pronto para ser usado.

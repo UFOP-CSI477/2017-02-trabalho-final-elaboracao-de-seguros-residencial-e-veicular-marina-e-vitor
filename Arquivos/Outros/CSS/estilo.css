@@ -1,0 +1,68 @@
+/*
+Aluna: Marina de Oliveira Margarida
+Matrícula: 13.1.8443
+
+Aluno: Vitor de Siqueira Cotta
+Matrícula: 14.1.8143
+
+Disciplina: CSI477 - SISTEMAS WEB I - Turma 11
+Professor: FERNANDO BERNARDES DE OLIVEIRA
+Atividade: Trabalho
+Data: 15/02/2018
+*/
+
+/*TAGS*/
+
+body {
+    background-image: url(../Imagem/background.jpg);
+    background-repeat: no-repeat;
+    background-color: green;
+}
+
+figure {
+    background: green;
+    padding: 10px;
+}
+
+figcaption {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #222;
+    bottom: 0;
+    color: white;
+    font-size: 14px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    width: 100%;
+}
+
+main {
+    background-color: ghostwhite;
+    min-height: 1000px;
+    background:rgba(255,255,255,0.9);
+}
+
+h1 {
+    margin-top: 0px;
+}
+
+/*CLASSES*/
+
+i.material-icons {
+    font-size:16px;
+}
+
+.panel-heading {
+    font-weight: bold;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+/*ID*/
